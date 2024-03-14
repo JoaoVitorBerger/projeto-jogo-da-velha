@@ -1,0 +1,100 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.table-area{
+    height: 500px;
+}
+
+
+#c-1 li.l1{
+    padding: 15px;
+    line-height: 100px;
+    width: 200px;
+    list-style: none;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+#c-1 li.l2{
+    padding: 15px;
+    width: 200px;
+    line-height: 100px;
+    list-style: none;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+#c-1 li.l3{
+    padding: 15px;
+    line-height: 100px;
+    width: 200px;
+    list-style: none;
+    border-right: 5px solid black;
+}
+
+#c-2 li.l1{
+    padding: 15px;
+    line-height: 100px;
+    width: 200px;
+    list-style: none;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+#c-2 li.l2-center{
+    padding: 15px;
+    line-height: 100px;
+    width: 200px;
+    list-style: none;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+#c-2 li.l3{
+    padding: 15px;
+    line-height: 100px;
+    width: 200px;
+    list-style: none;
+    border-right: 5px solid black;
+}
+#c-3 li.l1{
+    padding: 15px;
+    line-height: 100px;
+    list-style: none;
+    width: 200px;
+    border-bottom: 5px solid black;
+    border-right: none;
+}
+#c-3 li.l2{
+    padding: 15px;
+    line-height: 100px;
+    list-style: none;
+    width: 200px;
+    border-bottom: 5px solid black;
+    border-right: none;
+}
+#c-3 li.l3{
+    padding: 15px;
+    width: 200px;
+    line-height: 100px;
+    list-style: none;
+    border-right: none;
+}
+
+.box{
+    width: 100%;
+    height: 90px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box-nomes{
+    width: 100%;
+    height: 100%;
+}
+
+.container-player-turn{
+    width: 100%;
+    height: 150px;
+    font-size: 30px;
+
+}
